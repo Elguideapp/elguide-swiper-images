@@ -1,14 +1,14 @@
 [
-  {
+{
   "imageUrl":"https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
-  "action":"https://google.com",
-    "isExtern":true,
+  "action":"https://www.google.com/",
+  "isExtern":true,
   "routing":""
 },
-  {
+{
   "imageUrl":"https://t3.ftcdn.net/jpg/06/48/79/10/360_F_648791013_cQK30SdyiLrVQ96Bqn2MOkz4JmvgttGr.jpg",
-  "action":"https://google.com",
-     "isExtern":false,
+  "action":"https://www.google.com/",
+  "isExtern":false,
   "routing":""
 }
 ]
