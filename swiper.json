@@ -1,14 +1,14 @@
 [
 {
   "imageUrl":"https://github.com/Elguideapp/elguide-swiper-images/blob/main/images/banner%201.png?raw=true",
-  "action":"https://www.google.com/",
+  "action":"",
   "isExtern":true,
   "routing":"",
   "imageFit":"cover"
 },
 {
   "imageUrl":"https://github.com/Elguideapp/elguide-swiper-images/blob/main/images/file.png?raw=true",
-  "action":"https://www.google.com/",
+  "action":"",
   "isExtern":false,
   "routing":"",
   "imageFit":"fill"
