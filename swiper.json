@@ -1,16 +1,12 @@
 [
 {
-  "imageUrl":"https://github.com/Elguideapp/elguide-swiper-images/blob/main/images/banner%201.png?raw=true",
-  "action":"",
-  "isExtern":true,
-  "routing":"",
-  "imageFit":"cover"
-},
-{
-  "imageUrl":"https://github.com/Elguideapp/elguide-swiper-images/blob/main/images/banner%20mosta.png?raw=true",
+  "imageUrlLight":"https://github.com/Elguideapp/elguide-swiper-images/blob/main/images/banner%20mosta.png?raw=true",
+  "imageUrlDark":"https://github.com/Elguideapp/elguide-swiper-images/blob/main/images/banner%20mosta.png?raw=true",
   "action":"",
   "isExtern":false,
   "routing":"",
+  "type":"",
+  "isFormular:"",
   "imageFit":"cover"
 }
 ]
