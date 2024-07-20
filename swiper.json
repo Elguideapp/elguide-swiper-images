@@ -1,17 +1,17 @@
 [
 {
-  "imageUrlLight":"https://github.com/Elguideapp/elguide-swiper-images/blob/main/images/Minimalistic_Creative_Agency_Business_Banner.png?raw=true",
-  "imageUrlDark":"https://github.com/Elguideapp/elguide-swiper-images/blob/main/images/Minimalistic_Creative_Agency_Business_Banner.png?raw=true",
+  "imageUrlLight":"https://github.com/Elguideapp/elguide-swiper-images/blob/main/images/bg.png?raw=true",
+  "imageUrlDark":"https://github.com/Elguideapp/elguide-swiper-images/blob/main/images/bg.png?raw=true",
   "action":"",
-  "isExtern":true,
+  "isExtern":false,
   "routing":"wilaya",
   "type":"",
   "isFormular":"",
   "imageFit":"cover"
 },
   {
-  "imageUrlLight":"https://raw.githubusercontent.com/Elguideapp/elguide-swiper-images/main/images/Blue_Purple_Modern_Gradient_Were_Launching_Exclusive_Phone_Banner.png",
-  "imageUrlDark":"https://raw.githubusercontent.com/Elguideapp/elguide-swiper-images/main/images/Blue_Purple_Modern_Gradient_Were_Launching_Exclusive_Phone_Banner.png",
+  "imageUrlLight":"https://github.com/Elguideapp/elguide-swiper-images/blob/main/images/bg3.png?raw=true",
+  "imageUrlDark":"https://github.com/Elguideapp/elguide-swiper-images/blob/main/images/bg3.png?raw=true",
   "action":"https://elguide.infinityfreeapp.com/",
   "isExtern":true,
   "routing":"",
