@@ -8,6 +8,16 @@
   "type":"",
   "isFormular":"",
   "imageFit":"cover"
+},
+  {
+  "imageUrlLight":"https://raw.githubusercontent.com/Elguideapp/elguide-swiper-images/main/images/Blue_Purple_Modern_Gradient_Were_Launching_Exclusive_Phone_Banner.png",
+  "imageUrlDark":"https://raw.githubusercontent.com/Elguideapp/elguide-swiper-images/main/images/Blue_Purple_Modern_Gradient_Were_Launching_Exclusive_Phone_Banner.png",
+  "action":"https://elguide.infinityfreeapp.com/",
+  "isExtern":false,
+  "routing":"",
+  "type":"",
+  "isFormular":"",
+  "imageFit":"cover"
 }
 ]
 
